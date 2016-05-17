@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[casabosco]]></title>
         <description><![CDATA[casabosco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/casabosco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 00:04:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 May 2016 00:04:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/casabosco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About quality</p>]]></description>
+            <link>https://thegrid.ai/casabosco/about-quality/index.html</link>
+            <guid isPermaLink="false">7a4c62d7-ef9b-4cf0-88d4-40e63bd83677</guid>
+            <pubDate>Tue, 17 May 2016 00:04:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The beginning:</p>]]></description>
-            <link>undefinedthe-beginning/index.html</link>
+            <link>https://thegrid.ai/casabosco/the-beginning/index.html</link>
             <guid isPermaLink="false">9c89e10c-4b1a-42b9-8605-338fc31d89b7</guid>
             <pubDate>Tue, 17 May 2016 00:04:01 GMT</pubDate>
         </item>
