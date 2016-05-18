@@ -4,8 +4,15 @@
         <description><![CDATA[Casa Bosco]]></description>
         <link>https://thegrid.ai/casabosco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 22:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 22:21:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/casabosco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.campobaeza.com/</p>]]></description>
+            <link>https://thegrid.ai/casabosco/httpwwwcampobaezacom/index.html</link>
+            <guid isPermaLink="false">66e38e2a-8cdd-4e5f-a42e-02a87e30aed4</guid>
+            <pubDate>Wed, 18 May 2016 22:21:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The beginning:</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/casabosco/dd72a58b-4b98-49e8-8d06-dc43a78c0c60/index.html</link>
             <guid isPermaLink="false">dd72a58b-4b98-49e8-8d06-dc43a78c0c60</guid>
             <pubDate>Tue, 17 May 2016 10:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7934d3b5-8370-44e6-a4cf-4ff9e2766df1.jpg">]]></description>
-            <link>https://thegrid.ai/casabosco/a0744910-0e1e-4f3d-a379-f65cd4c9db12/index.html</link>
-            <guid isPermaLink="false">a0744910-0e1e-4f3d-a379-f65cd4c9db12</guid>
-            <pubDate>Tue, 17 May 2016 10:42:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
