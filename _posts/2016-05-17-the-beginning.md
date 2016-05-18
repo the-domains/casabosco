@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The beginning:'
-datePublished: '2016-05-17T00:04:01.946Z'
-dateModified: '2016-05-17T00:04:01.155Z'
+datePublished: '2016-05-18T16:53:57.009Z'
+dateModified: '2016-05-17T20:57:53.051Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-17-the-beginning.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-17-the-beginning.md
 url: the-beginning/index.html
 _type: Article
 
