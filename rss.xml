@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[casabosco]]></title>
-        <description><![CDATA[casabosco]]></description>
+        <title><![CDATA[Casa Bosco]]></title>
+        <description><![CDATA[Casa Bosco]]></description>
         <link>https://thegrid.ai/casabosco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 10:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 16:21:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/casabosco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88753d72-4c55-408a-9450-b4537ef5c0bd.jpg">]]></description>
+            <link>https://thegrid.ai/casabosco/6fd1a405-aba0-4b24-af25-22a629e89a65/index.html</link>
+            <guid isPermaLink="false">6fd1a405-aba0-4b24-af25-22a629e89a65</guid>
+            <pubDate>Wed, 18 May 2016 16:21:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b5030bf-5e0f-43df-9ccb-83f30902c208.jpg">]]></description>
+            <link>https://thegrid.ai/casabosco/6958bdcb-8819-4b6b-934d-975fc9c091d6/index.html</link>
+            <guid isPermaLink="false">6958bdcb-8819-4b6b-934d-975fc9c091d6</guid>
+            <pubDate>Wed, 18 May 2016 16:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/841ea039-3935-4d20-9f57-a8cd2dcfc050.jpg">]]></description>
+            <link>https://thegrid.ai/casabosco/32205fce-c5da-4d4d-ab31-d19293303202/index.html</link>
+            <guid isPermaLink="false">32205fce-c5da-4d4d-ab31-d19293303202</guid>
+            <pubDate>Wed, 18 May 2016 16:20:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/503222e6-d783-499e-ab76-cb50661634e3.jpg">]]></description>
+            <link>https://thegrid.ai/casabosco/dd72a58b-4b98-49e8-8d06-dc43a78c0c60/index.html</link>
+            <guid isPermaLink="false">dd72a58b-4b98-49e8-8d06-dc43a78c0c60</guid>
+            <pubDate>Tue, 17 May 2016 10:42:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7934d3b5-8370-44e6-a4cf-4ff9e2766df1.jpg">]]></description>
