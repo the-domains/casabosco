@@ -4,8 +4,15 @@
         <description><![CDATA[Casa Bosco]]></description>
         <link>https://thegrid.ai/casabosco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 22:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 22:15:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/casabosco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The beginning:</p>]]></description>
+            <link>https://thegrid.ai/casabosco/f9ca343b-9e91-4792-b929-0696b41d4472/index.html</link>
+            <guid isPermaLink="false">f9ca343b-9e91-4792-b929-0696b41d4472</guid>
+            <pubDate>Wed, 18 May 2016 22:14:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2d0023b-0305-490f-bd2b-b4bd989b63d7.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/casabosco/a0744910-0e1e-4f3d-a379-f65cd4c9db12/index.html</link>
             <guid isPermaLink="false">a0744910-0e1e-4f3d-a379-f65cd4c9db12</guid>
             <pubDate>Tue, 17 May 2016 10:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>About cooking</p>]]></description>
-            <link>https://thegrid.ai/casabosco/about-cooking/index.html</link>
-            <guid isPermaLink="false">56b47cb7-9413-4154-88c2-298db9d92ab6</guid>
-            <pubDate>Tue, 17 May 2016 00:04:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
