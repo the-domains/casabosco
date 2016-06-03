@@ -4,8 +4,15 @@
         <description><![CDATA[Casa Bosco]]></description>
         <link>https://thegrid.ai/casabosco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 15:59:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 17:23:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/casabosco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0eefe4bd-8081-40f5-9f4d-9cc49a5af453.png">]]></description>
+            <link>https://thegrid.ai/casabosco/6eded6e4-16f4-4d17-bebc-08864280dd6d/index.html</link>
+            <guid isPermaLink="false">6eded6e4-16f4-4d17-bebc-08864280dd6d</guid>
+            <pubDate>Fri, 03 Jun 2016 17:23:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82684078-a479-4f0c-b8ba-1141d9249216.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/casabosco/f9ca343b-9e91-4792-b929-0696b41d4472/index.html</link>
             <guid isPermaLink="false">f9ca343b-9e91-4792-b929-0696b41d4472</guid>
             <pubDate>Wed, 18 May 2016 22:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2d0023b-0305-490f-bd2b-b4bd989b63d7.jpg">]]></description>
-            <link>https://thegrid.ai/casabosco/carta-alberto-campo-baeza/index.html</link>
-            <guid isPermaLink="false">51b6dcb2-1803-408f-af79-4c22f67c9827</guid>
-            <pubDate>Wed, 18 May 2016 22:08:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
